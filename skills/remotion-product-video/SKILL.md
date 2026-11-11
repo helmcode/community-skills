@@ -1,7 +1,6 @@
 ---
 name: remotion-product-video
 description: Adds voiceover, music, subtitles, camera moves and well-timed motion to a product or launch video made with Remotion, using launch-video-kit. Use whenever the task is generating a voiceover with a TTS, choosing or extending a music track, mixing voice over music, adding subtitles that stay legible over a UI, moving a virtual camera over a UI rebuilt in HTML, or making animation in a Remotion video feel less mechanical (easing, anticipation, staggering, follow-through, timing).
-license: MIT
 ---
 
 # Remotion product video

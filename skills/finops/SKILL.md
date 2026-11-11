@@ -1,7 +1,6 @@
 ---
 name: finops
 description: Cloud FinOps CLI for cost analysis, anomaly detection, resource discovery, and optimization. Use when the user needs to analyze cloud costs, find cost anomalies, compare spending periods, discover cloud resources, generate cost reports, or perform any cloud financial operations task. Triggers on requests like "analyze AWS costs", "find cost spikes", "show top services by spend", "compare this month vs last month", "list cloud resources", "generate a cost report", "what am I spending on", "are there any cost anomalies", "show cost trends", or any cloud cost optimization task.
-allowed-tools: Bash(finops), Bash(finops *)
 ---
 
 # FinOps CLI

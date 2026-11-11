@@ -1,7 +1,6 @@
 ---
 name: building-a-beatdeck
 description: Builds a talk as a beatdeck - a fixed 1920x1080 React stage where one click is one beat, with authored motion, presenter view, overview, and an offline self-contained build. Covers turning source material (PPTX, Keynote/PDF export, Markdown, notes) into a content audit and a scene/beat map, choosing or applying a theme, writing scene layers, automatic beats, and verifying every beat with npm run verify. Use whenever the task is creating, porting, restyling, rehearsing or fixing a presentation, talk, keynote, slide deck or conference session that should feel like a live system rather than slides, or whenever the repo contains src/beatdeck/.
-license: MIT
 ---
 
 # Building a beatdeck
